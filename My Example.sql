@@ -1,0 +1,1 @@
+SELECT * FROM candy_customer WHERE cust_type = 'P';
